@@ -1,3 +1,4 @@
 <Version: 1.02>
-/data//Map003.json 
+/data//Map003.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map003.json
+/js//plugins/YEP_QuestJournal https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map003.json
 <End of Version>
