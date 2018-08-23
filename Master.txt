@@ -2,3 +2,7 @@
 /data//Map003.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map003.json
 /img/SumRndmDde/auto-update//Background.png https://raw.githubusercontent.com/equilizer17/RPGProject/master/Background.png
 <End of Version>
+
+<Version: 1.03>
+/data//Map003.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map008.json
+<End of Version>
