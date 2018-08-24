@@ -9,7 +9,6 @@
 <End of Version>
 
 <Version: 1.04>
-/js/plugins/SRD_BitmapUpgrade.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/SRD_BitmapUpgrade.js
 /data/Map013.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map013.json
 /data/Map015.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map015.json
 /data/Map016.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map016.json
