@@ -38,7 +38,7 @@
 /img/lights/tungsten.png https://github.com/equilizer17/RPGProject/blob/master/lights/tungsten.png
 /img/lights/white.png https://github.com/equilizer17/RPGProject/blob/master/lights/white.png
 /img/lights/yellow.png https://github.com/equilizer17/RPGProject/blob/master/lights/yellow.png
-/img/characters/!Flame2.p
+/img/characters/!Flame2.png https://github.com/equilizer17/RPGProject/blob/master/!Flame2.png
 
 <End of Version>
 
