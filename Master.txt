@@ -1,22 +1,18 @@
-<Version: 1.02>
+<Version: 1.05>
 /data/Map003.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map003.json
-/img/SumRndmDde/auto-update//Background.png https://raw.githubusercontent.com/equilizer17/RPGProject/master/Background.png
-<End of Version>
-
-<Version: 1.03>
+/data/Map004.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map004.json
+/data/Map005.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map005.json
+/data/Map007.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map007.json
 /data/Map008.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map008.json
-/data/Map003.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map003.json
-<End of Version>
-
-<Version: 1.04>
+/data/Map011.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map011.json
+/data/Map012.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map012.json
 /data/Map013.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map013.json
 /data/Map015.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map015.json
+/data/Map017.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map017.json
 /data/Tilesets.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Tilesets.json
 /data/Items.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Items.json
-<End of Version>
+/data/Enemies.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Enemies.json
+/data/Actors.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Actors.json
 
-<Version: 1.05>
-/data/Map016.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map016.json
-/data/Map017.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map017.json
 <End of Version>
 
