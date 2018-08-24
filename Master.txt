@@ -16,7 +16,7 @@
 /js/plugins/KhasCore.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/KhasCore.js
 /js/plugins/KhasGraphics.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/KhasGraphics.js
 /js/plugins/KhasUltraLighting.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/KhasUltraLighting.js
-/img/lights/blue.png
+/img/lights/blue.png RPGProject/lights/blue.png
 /img/lights/candle.png
 /img/lights/cyan.png
 /img/lights/default.png
