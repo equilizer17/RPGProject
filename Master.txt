@@ -13,4 +13,5 @@
 /data/Map015.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map015.json
 /data/Map016.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map016.json
 /data/Map017.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map017.json
+/data/tilesets.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map017.json
 <End of Version>
