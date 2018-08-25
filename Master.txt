@@ -1,48 +1,6 @@
-<Version: 1.05>
-/data/Map003.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map003.json
-/data/Map004.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map004.json
-/data/Map005.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map005.json
-/data/Map007.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map007.json
-/data/Map008.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map008.json
-/data/Map011.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map011.json
-/data/Map012.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map012.json
+<Version: 1.04>
+/js/plugins/SRD_BitmapUpgrade.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/SRD_BitmapUpgrade.js
 /data/Map013.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map013.json
 /data/Map015.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map015.json
-/data/Map017.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Map017.json
-/data/Tilesets.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Tilesets.json
-/data/Items.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Items.json
-/data/Enemies.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Enemies.json
-/data/Actors.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Actors.json
-/js/plugins.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins.js
-/js/plugins/KhasCore.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/KhasCore.js
-/js/plugins/KhasGraphics.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/KhasGraphics.js
-/js/plugins/KhasUltraLighting.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/KhasUltraLighting.js
-/js/plugins/AutoUpdateFIx.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/AutoUpdateFIx.js
-/js/plugins/SRD_BitmapUpgrade.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/SRD_BitmapUpgrade.js
-/img/lights/blue.png https://raw.githubusercontent.com/equilizer17/RPGProject/master/lights/blue.png
-/img/lights/candle.png https://raw.githubusercontent.com/equilizer17/RPGProject/master/lights/candle.png
-/img/lights/cyan.png https://github.com/equilizer17/RPGProject/master/lights/cyan.png
-/img/lights/default.png https://github.com/equilizer17/RPGProject/master/lights/default.png
-/img/lights/flashlight_2.png https://github.com/equilizer17/RPGProject/master/lights/flashlight_2.png
-/img/lights/flashlight_4.png https://github.com/equilizer17/RPGProject/master/lights/flashlight_4.png
-/img/lights/flashlight_6.png https://github.com/equilizer17/RPGProject/master/lights/flashlight_6.png
-/img/lights/flashlight_8.png https://github.com/equilizer17/RPGProject/master/lights/flashlight_8.png
-/img/lights/fluorescent.png https://github.com/equilizer17/RPGProject/master/lights/fluorescent.png
-/img/lights/green.png https://github.com/equilizer17/RPGProject/master/lights/green.png
-/img/lights/halogen.png https://github.com/equilizer17/RPGProject/master/lights/halogen.png
-/img/lights/pink.png https://github.com/equilizer17/RPGProject/master/lights/pink.png
-/img/lights/player_torch_2.png https://github.com/equilizer17/RPGProject/master/lights/player_torch_2.png
-/img/lights/player_torch_4.png https://github.com/equilizer17/RPGProject/master/lights/player_torch_4.png
-/img/lights/player_torch_6.png https://github.com/equilizer17/RPGProject/master/lights/player_torch_6.png
-/img/lights/player_torch_8.png https://github.com/equilizer17/RPGProject/master/lights/player_torch_8.png
-/img/lights/purple.png https://github.com/equilizer17/RPGProject/master/lights/purple.png
-/img/lights/red.png https://github.com/equilizer17/RPGProject/master/lights/red.png
-/img/lights/torch.png https://github.com/equilizer17/RPGProject/master/lights/torch.png
-/img/lights/tungsten.png https://github.com/equilizer17/RPGProject/master/lights/tungsten.png
-/img/lights/white.png https://github.com/equilizer17/RPGProject/master/lights/white.png
-/img/lights/yellow.png https://github.com/equilizer17/RPGProject/master/lights/yellow.png
-/img/characters/!Flame2.png https://github.com/equilizer17/RPGProject/master/!Flame2.png
-
-
 <End of Version>
 
