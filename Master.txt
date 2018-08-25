@@ -17,6 +17,7 @@
 /js/plugins/KhasCore.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/KhasCore.js
 /js/plugins/KhasGraphics.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/KhasGraphics.js
 /js/plugins/KhasUltraLighting.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/KhasUltraLighting.js
+/js/plugins/AutoUpdateFIx.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/AutoUpdateFIx.js
 /img/lights/blue.png https://raw.githubusercontent.com/equilizer17/RPGProject/master/lights/blue.png
 /img/lights/candle.png https://raw.githubusercontent.com/equilizer17/RPGProject/master/lights/candle.png
 /img/lights/cyan.png https://github.com/equilizer17/RPGProject/master/lights/cyan.png
