@@ -13,6 +13,7 @@
 /data/Items.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Items.json
 /data/Enemies.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Enemies.json
 /data/Actors.json https://raw.githubusercontent.com/equilizer17/RPGProject/master/Actors.json
+/js/plugins.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins.js
 /js/plugins/KhasCore.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/KhasCore.js
 /js/plugins/KhasGraphics.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/KhasGraphics.js
 /js/plugins/KhasUltraLighting.js https://raw.githubusercontent.com/equilizer17/RPGProject/master/plugins/KhasUltraLighting.js
